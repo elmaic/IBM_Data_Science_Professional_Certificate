@@ -10,3 +10,6 @@ Several projects in different laguages will be created and updated
 ### Languages
 
 Some of the popular languages that Data Scientists use are:
+
+|Language|Why it is used|
+|:-:|:-:|
