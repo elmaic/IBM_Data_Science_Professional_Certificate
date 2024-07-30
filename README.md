@@ -1,15 +1,13 @@
-# IBM_Data_Science_Professional_Certificate
+# IBM_Data_Science_Professional_Certificate <img style="float: right;" src="IBM-Data-Science-Professional-Certificate.png" width="150" />
 Personal Data Science profesional Certificate course
-
-<img src="IBM-Data-Science-Professional-Certificate.png" width="50" />
 
 # Data Science Tools and Ecosystem
 
-In this notebook, Data Science Tools and Ecosystem are summarized.
+In this repo, Data Science Tools and Ecosystem will be summarized.
 
 Several projects in different laguages will be created and updated
 
-### Languages
+### Languages that will be used
 
 Some of the popular languages that Data Scientists use are:
 
