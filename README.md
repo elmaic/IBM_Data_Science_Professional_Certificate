@@ -15,3 +15,4 @@ Some of the popular languages that Data Scientists use are:
 |:-:|:-:|
 |Python|simplicity, community support, rich ecosystem of libraries and tools, interoperability with other languages, and high-level programming capabilities|
 |R|it has static graphics that produce good-quality data visualizations|
+|SQL|it allows you to work with structured data stored in databases|
