@@ -1,8 +1,7 @@
 # IBM_Data_Science_Professional_Certificate
 Personal Data Science profesional Certificate course
 
-<img src="images/example.png" width="300" />
-![IBM](IBM-Data-Science-Professional-Certificate.png)
+<img src="IBM-Data-Science-Professional-Certificate.png" width="50" />
 
 # Data Science Tools and Ecosystem
 
