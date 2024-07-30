@@ -1,7 +1,8 @@
 # IBM_Data_Science_Professional_Certificate
 Personal Data Science profesional Certificate course
 
-![IBM](C:\Users\mikem\Desktop\git\cursera\IBM_Data_Science_Professional_Certificate\IBM-Data-Science-Professional-Certificate.png)
+<img src="images/example.png" width="300" />
+![IBM](IBM-Data-Science-Professional-Certificate.png)
 
 # Data Science Tools and Ecosystem
 
